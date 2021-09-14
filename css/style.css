@@ -17,7 +17,7 @@ body {
 }
 /*------------ Style of every single product------------- */
 .single-product {
-  height: 500px;
+  height: 520px;
   background-color: aquamarine;
   padding: 10px;
   transition: 0.6s;
